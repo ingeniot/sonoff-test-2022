@@ -5,7 +5,7 @@ Crear carpeta nuevo Proyecto
 Crear control de versiones
 git init
 
-Agrager repositorio remoto
+Agregar repositorio remoto
 git remote add origin https://github.com/ingeniot/sonoff-test-2022
 
 Crear archivo .gitignore
